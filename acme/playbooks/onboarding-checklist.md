@@ -14,3 +14,6 @@
 - Schedule check-ins with manager.
 - Review role goals and success metrics.
 - Capture early feedback and questions.
+
+Adding new checlist item 
+Addding one more checklist item 

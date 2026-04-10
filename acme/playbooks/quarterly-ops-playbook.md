@@ -35,3 +35,5 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Refresh operating metrics: validate definitions, owners, dashboards, and alert thresholds.
 - Reconfirm staffing and onboarding plan; update on-call / ownership maps if applicable.
 - Publish a short kickoff note: goals, key dates, owners, and how escalation works.
+
+Adding new querterly Ops playbook
